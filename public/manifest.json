@@ -1,17 +1,20 @@
 {
-  "short_name": "Aqua Wallet",
-  "name": "Aqua Wallet",
-  "description": "A crypto wallet for using the blockchain.",
-  "manifest_version": 3,
-  "version": "1.0",
-  "action": {
-      "default_popup": "index.html",
-      "default_title": "Open Wallet"
+  "name": "AMB Wallet", 
+  "description": "...",
+  "version": "1.0.0",  
+  "manifest_version": 2,
+  
+  "permissions": [
+    "storage", 
+    "tabs", 
+    "webRequest"
+  ],
+  
+  "icons": {   
+    "16": "..."  
   },
-  "permissions": [],
-  "icons": {
-      "16": "walletLogo512.png",
-      "48": "walletLogo512.png",
-      "128": "walletLogo512.png"
+  
+  "browser_action": {
+    "default_popup": "index.html"  
   }
 }

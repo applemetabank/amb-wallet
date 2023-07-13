@@ -1,4 +1,4 @@
-# Aqua Wallet
+# Amb Wallet
 
 A crypto wallet that makes it easy to use the blockchain.
 
@@ -7,11 +7,11 @@ A crypto wallet that makes it easy to use the blockchain.
 3. Send ETH
 4. View transactions
 
-Demo: [wallet.atila.ca](https://wallet.atila.ca)
+Demo: [
 
-[View on Chrome Store (viewable once it's live)](https://chrome.google.com/webstore/detail/jpahabobabnbigaglekpjekelpoheebm)
+[View on Chrome Store (viewable once it's live)](https://chrome.google.com/webstore/detail/)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/atilatech/aqua-wallet)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/applemetabank/amb-wallet)
 
 
 ## Quickstart
